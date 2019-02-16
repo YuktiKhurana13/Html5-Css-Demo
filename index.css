@@ -1,0 +1,51 @@
+.product{
+    width:420px;
+    margin-right: 10px;
+    display: table-cell;
+}
+.image{
+    width: 330px;
+    height: 380px;
+}
+body{
+    background-color:white;
+}
+#header{
+    background-color: black;
+    width: 100%;
+    height: 90px;
+    color: white;
+    text-align: center;
+}
+h2{
+    padding-left: 50px;
+    color: black;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+#Samsung{
+    display: table-cell;
+    background-color: black;
+    color: white;
+}
+#Column{
+    display: block;
+    background-color: white;
+    color: black;
+    width: 1290px;
+}
+#Samsung a{
+    color: black;
+    text-decoration: underline;
+}
+#Samsung li{
+    font-family:arial;
+    font-size: 20px;
+}
